@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding-top: 80px; /* Adjust based on your navigation height */
+}
